@@ -1,6 +1,6 @@
 module.exports = {
-  title: "vuepress-theme-reco",
-  description: 'A simple and beautiful vuepress blog theme .',
+  title: "吉喆",
+  description: '吉喆 大帅哥',
   dest: 'public',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
@@ -46,14 +46,14 @@ module.exports = {
     },
     friendLink: [
       {
-        title: '午后南杂',
+        title: '吉喆',
         desc: 'Enjoy when you can, and endure when you must.',
-        email: '1156743527@qq.com',
+        email: '2234507297@qq.com',
         link: 'https://www.recoluan.com'
       },
       {
-        title: 'vuepress-theme-reco',
-        desc: 'A simple and beautiful vuepress Blog & Doc theme.',
+        title: '吉喆',
+        desc: '无业游民',
         avatar: "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
         link: 'https://vuepress-theme-reco.recoluan.com'
       },
